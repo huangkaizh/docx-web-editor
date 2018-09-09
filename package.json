@@ -1,0 +1,25 @@
+{
+  "name": "docx-web-editor",
+  "version": "1.0.0",
+  "description": "docx web editor todo integrate ckeditor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangkaizh/docx-web-editor.git"
+  },
+  "keywords": [
+    "docx",
+    "web",
+    "editor",
+    "ckeditor"
+  ],
+  "author": "huangzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangkaizh/docx-web-editor/issues"
+  },
+  "homepage": "https://github.com/huangkaizh/docx-web-editor#readme"
+}
